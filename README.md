@@ -31,7 +31,7 @@ SmartAttendance is an Android app developed for University of Layyah students an
 - Gradle Build System
 
 ## APK Download
-[Download SmartAttendance.apk](apk/SmartAttendanceApp.apk)
+[Download SmartAttendance.apk](https://github.com/sabasikander379-bit/SmartAttendance-Android/releases/download/v1.0/SmartAttendanceApp.apk)
 
 ## How to Install the APK
 1. Download APK from above link
