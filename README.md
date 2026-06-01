@@ -5,13 +5,30 @@ A secure Android application for automated student attendance using QR Code & Fa
 SmartAttendance is an Android app developed for University of Layyah students and teachers. It solves the problem of proxy attendance and manual record keeping. Teachers can generate QR codes and verify students via face scan. Students can mark attendance in 2 seconds and view their monthly reports. Main features include QR attendance, face verification, role-based login, and real-time reports.
 
 ## App Screenshots
-| Splash Screen | Login Screen | Student Dashboard |
-|--------------|--------------|-------------------|
-|![Splash](screenshots/splash_screen.png) |![Login](screenshots/login_screen.png) |![Dashboard](screenshots/dashboard.png) |
 
-| Teacher Panel | QR Generate | Face Scan |
-|--------------|-------------|-----------|
-|![Teacher](screenshots/teacher_panel.png) |![QR](screenshots/qr_generate.png) |![Face](screenshots/face_scan.png) |
+### 1. Splash Screen
+<img src="screenshots/Splash screen.png" width="250"/>
+
+### 2. Login Screen
+<img src="screenshots/login screen.png" width="250"/>
+
+### 3. Signup Screen
+<img src="screenshots/signup screen.png" width="250"/>
+
+### 4. QR Generate
+<img src="screenshots/Generator qr code.png" width="250"/>
+
+### 5. Scanner Screen
+<img src="screenshots/Scanner screen.png" width="250"/>
+
+### 6. Student Dashboard
+<img src="screenshots/Student dashboard.png" width="250"/>
+
+### 7. My Class
+<img src="screenshots/my class.png" width="250"/>
+
+### 8. View Attendance
+<img src="screenshots/view attendance.png" width="250"/>
 
 ## Features
 - Student, Teacher, Admin role-based login
