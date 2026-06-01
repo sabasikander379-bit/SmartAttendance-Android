@@ -6,31 +6,17 @@ SmartAttendance is an Android app developed for University of Layyah students an
 
 ## App Screenshots
 
-## App Screenshots
+| Splash Screen | Login Screen | Signup Screen |
+| :---: | :---: | :---: |
+| <img src="screenshots/splash.png" width="200"/> | <img src="screenshots/login.png" width="200"/> | <img src="screenshots/signup.png" width="200"/> |
 
-### 1. Splash Screen
-<img src="screenshots/splash.png" width="250"/>
+| QR Generate | Scanner | Student Dashboard |
+| :---: | :---: | :---: |
+| <img src="screenshots/qr.png" width="200"/> | <img src="screenshots/scanner.png" width="200"/> | <img src="screenshots/dashboard.png" width="200"/> |
 
-### 2. Login Screen
-<img src="screenshots/login.png" width="250"/>
-
-### 3. Signup Screen
-<img src="screenshots/signup.png" width="250"/>
-
-### 4. QR Generate
-<img src="screenshots/qr.png" width="250"/>
-
-### 5. Scanner Screen
-<img src="screenshots/scanner.png" width="250"/>
-
-### 6. Student Dashboard
-<img src="screenshots/dashboard.png" width="250"/>
-
-### 7. My Class
-<img src="screenshots/myclass.png" width="250"/>
-
-### 8. View Attendance
-<img src="screenshots/attendance.png" width="250"/>
+| My Class | View Attendance |
+| :---: | :---: |
+| <img src="screenshots/myclass.png" width="200"/> | <img src="screenshots/attendance.png" width="200"/> |
 
 ## Features
 - Student, Teacher, Admin role-based login
